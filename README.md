@@ -2,7 +2,7 @@
 
 becasue every person matters
 
-let's give a chance to imporve everyone programming skills by participating in a webstream such a volunter developer.
+let's give a chance to improve everyone programming skills by participating in a webstream such a volunter developer.
 
 
 ## not (yet) a junior
