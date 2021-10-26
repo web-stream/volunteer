@@ -15,9 +15,9 @@ and start imporove the project
 
 ## yes, but not for free
 
-today, every volunteer will become donation on github profile.
-For everyone who involve in the project and give some improvement we can offer 1$ today 
-and 10$ for each Merge Request, after 1 month of work as a volunteer
++ every volunteer can receive a donation for their contribution to the development of the project on github.
++ For everyone who will be involved in the project and will give some improvement we can offer 1 $ today.
++ 10$ for each Merge Request, after 1 month of work as a volunteer
 
 
 ---
