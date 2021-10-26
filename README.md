@@ -21,9 +21,10 @@ let's meet on github and start impprove the project
 + For everyone who will be involved in the project and will give some improvement we can offer 1 $ today.
 + 10$ for each Merge Request, after 1 month of work as a volunteer
 
+Check more possiblities for today:
 + [partnership.webstream.dev](https://partnership.webstream.dev/#/)
 
-## yes, bot for equity
+## yes, but on equity model
 
 it's an open source and free project, so I am giving private or company's money to keep going forward.
 
@@ -31,7 +32,9 @@ Today ther is no chance to give an equity model, but after few month's with a on
 
 + [crowdfunding.webstream.dev](https://crowdfunding.webstream.dev/#/)
 
+
 ---
+
 + [edit](https://github.com/web-stream/volunteer/edit/main/README.md)
 
 ```
