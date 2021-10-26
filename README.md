@@ -1,6 +1,6 @@
 # [volunteer.webstream.dev](https://volunteer.webstream.dev/)
 
-# Becasue 
+# Because 
 
 ## every person matters!
 
