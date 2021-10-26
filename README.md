@@ -1,6 +1,6 @@
 # [volunteer.webstream.dev](https://volunteer.webstream.dev/)
 
-becasue every person matters
+Becasue every person matters!
 
 let's give a chance to improve everyone programming skills by participating in a webstream such a volunter developer.
 
