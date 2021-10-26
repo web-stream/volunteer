@@ -4,7 +4,7 @@
 
 ## every person matters!
 
-let's give a chance to improve everyone programming skills by participating in a webstream such a volunter developer.
+Let's give a chance to improve everyone programming skills by participating in a webstream such a volunter developer.
 
 
 ## not (yet) a junior
@@ -12,8 +12,8 @@ let's give a chance to improve everyone programming skills by participating in a
 Not everyone can start as a junior, but what if we can cooperation over volunteer and 
 Will be opened session for eweryonewho want to start but dont' meet the position expectiation for junior developer?
 
-let's meet on github and start impprove the project
-[start.webstream.dev](https://start.webstream.dev/#/)
+Let's meet on github and start impprove the project
++ [start.webstream.dev](https://start.webstream.dev/#/)
 
 ## yes, but not for free
 
